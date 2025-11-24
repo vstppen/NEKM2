@@ -1,0 +1,8 @@
+BINet+OL1 & GreenNet1: Operator learning for PDEs with parameter lambda \in [0.05, 0.1].
+BINet+OL2 & GreenNet2: Operator learning for PDEs with parameter lambda \in [1/128, 1/32].
+./NEKM/heatEq.ipynb & ./NEKM/heatEqs.ipynb: Solving heat equations with NEKM by using method in BINet+OL1 & GreenNet1.
+./NEKM/waveEq.ipynb & ./NEKM/waveEqs.ipynb: Solving wave equations with NEKM by using method in BINet+OL2 & GreenNet2.
+
+Remark:
+1. If there are both '.ipynb' and '.py' files in a folder, the author trained using '.py' files, and the output of the training process is recorded in an '.out' file.
+2. There may be some error in the expression of the markdown part of the code, because it may be directly copied from other files of the author, please understand, and the actual effect of the code shall prevail.

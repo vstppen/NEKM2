@@ -1,0 +1,10 @@
+a/： FD.ipynb: Solving the PDE by finite difference method.  
+     BINet & GreenNet: Operator learning for PDEs with a specific parameter.
+BINet2 & GreenNet2: Operator learning for PDEs with parameter lambda \in [0.025, 0.05].
+BINet3 & GreenNet3: Operator learning for PDEs with parameter lambda \in [0.05, 0.1].
+SchrodingerStrang.ipynb: Solving Schrodinger equations with Strang splitting and NEKM.
+SchrodingerLie.ipynb: Solving Schrodinger equations with operator splitting and NEKM.
+
+Remark:
+1. If there are both '.ipynb' and '.py' files in a folder, the author trained using '.py' files, and the output of the training process is recorded in an '.out' file.
+2. There may be some error in the expression of the markdown part of the code, because it may be directly copied from other files of the author, please understand, and the actual effect of the code shall prevail.
